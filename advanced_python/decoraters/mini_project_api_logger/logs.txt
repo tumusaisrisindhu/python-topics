@@ -1,0 +1,14 @@
+
+========================================
+Time: 2026-06-11 22:03:23.402247
+Function: get_users
+Args: (10,)
+Kwargs: {}
+Execution Time: 2.0 sec
+
+========================================
+Time: 2026-06-11 22:03:24.404687
+Function: get_products
+Args: ()
+Kwargs: {}
+Execution Time: 1.0 sec
